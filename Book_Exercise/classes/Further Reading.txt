@@ -1,0 +1,8 @@
+#Using "regex" (python)
+https://www.fastapitutorial.com/blog/pydantic-data-validation/
+
+#How to recognise a valid barcode using "Regex" (Python)
+https://stackoverflow.com/questions/11213129/how-can-i-recognize-a-valid-barcode-using-regex
+
+#Regex: searching for exactly 3 capital letters (Python)
+https://stackoverflow.com/questions/47119591/regex-searching-for-exactly-3-capital-letters
